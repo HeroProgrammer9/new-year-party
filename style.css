@@ -95,3 +95,27 @@ body {
 .party-section img {
   margin-right: 100px;
 }
+.schedule-container {
+  text-align: center;
+  font-family: Inter;
+  font-weight: 600;
+  background-image: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+  border-radius: 16px;
+  width: 1320px;
+  margin: 120px auto;
+  padding: 100px 0px;
+}
+.schedule-container span {
+  color: #f00;
+  font-size: 32px;
+  line-height: 56px; /* 175% */
+}
+.schedule-container h3 {
+  color: #070211;
+  font-size: 32px;
+  line-height: 56px;
+}
