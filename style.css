@@ -29,3 +29,25 @@ body {
   font-size: 72px;
   font-weight: 900;
 }
+.discount-part {
+  padding: 0px 344px;
+  text-align: center;
+  font-family: Inter;
+}
+.discount-part > h2 {
+  color: #f00;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.discount-part > p {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+}
+.discount-part > h3 {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 25px;
+}
