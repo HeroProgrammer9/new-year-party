@@ -269,3 +269,51 @@ h6 {
 .products > img {
   width: 424px;
 }
+.subscribe-section {
+  border-radius: 16px;
+  background-color: rgba(255, 0, 0, 0.05);
+  text-align: center;
+  font-family: inter;
+}
+.subscribe-container {
+  padding: 80px 230px;
+}
+.subscribe-container h1 {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+}
+.subscribe-container h4 {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-size: 20px;
+  line-height: 32px;
+}
+.subscribe-container input {
+  border: none;
+  padding: 25px 30px;
+}
+.subscribe-now {
+  display: flex;
+  justify-content: center;
+}
+.email-field {
+  color: rgba(7, 2, 17, 0.3);
+  background: #fff;
+  border-radius: 50px 0 0 50px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 400;
+  width: 300px;
+}
+.button {
+  background-color: #f00;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 0px 50px 50px 0px;
+  cursor: pointer;
+}
