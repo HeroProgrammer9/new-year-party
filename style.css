@@ -332,6 +332,13 @@ footer {
   display: flex;
   justify-content: space-between;
 }
+.footer-info > button {
+  border: none;
+  cursor: pointer;
+  background: none;
+  color: #fff;
+  font-size: 24px;
+}
 .footer-info h3 {
   width: 40%;
 }
