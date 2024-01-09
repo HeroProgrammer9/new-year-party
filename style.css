@@ -182,3 +182,59 @@ body {
   font-weight: 400;
   line-height: 32px; /* 160% */
 }
+.holiday-offer {
+  text-align: center;
+  margin-top: 120px;
+}
+.holiday-offer-text {
+  padding: 130px;
+}
+.holiday-offer h4 {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: -35px;
+}
+.holiday-offer h1 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 72px;
+  line-height: normal;
+  margin-bottom: -20px;
+}
+.holiday-offer span {
+  color: #f00;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: normal;
+}
+h6 {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+}
+.holiday-offer-banner {
+  background-image: url("images/Rectangle 2.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.banner-images {
+  position: relative;
+  z-index: -1;
+  bottom: 50px;
+}
+.offer-logo {
+  position: absolute;
+  top: 50px;
+  right: 270px;
+}
